@@ -1,0 +1,154 @@
+{
+  "market": [
+    {
+      "hi": "मुझे टमाटर और आलू चाहिए।",
+      "en": "I want tomatoes and potatoes.",
+      "tr": "Mujhe tamatar aur aalu chahiye."
+    },
+    {
+      "hi": "यह कितने का है?",
+      "en": "How much is this?",
+      "tr": "Yeh kitne ka hai?"
+    },
+    {
+      "hi": "थोड़ा कम कर दीजिए, कृपया।",
+      "en": "Please reduce the price a little.",
+      "tr": "Thoda kam kar dijiye, kripya."
+    },
+    {
+      "hi": "यह ताज़ा है?",
+      "en": "Is this fresh?",
+      "tr": "Yeh taaza hai?"
+    },
+    {
+      "hi": "एक किलो दे दीजिए।",
+      "en": "Please give me one kilo.",
+      "tr": "Ek kilo de dijiye."
+    }
+  ],
+  "taxi": [
+    {
+      "hi": "मुझे बाज़ार जाना है।",
+      "en": "I need to go to the market.",
+      "tr": "Mujhe bazaar jana hai."
+    },
+    {
+      "hi": "कितना लगेगा?",
+      "en": "How much will it cost?",
+      "tr": "Kitna lagega?"
+    },
+    {
+      "hi": "ज़रा धीरे चलिएगा।",
+      "en": "Please drive a little slowly.",
+      "tr": "Zara dheere chaliyega."
+    },
+    {
+      "hi": "मीटर से चलेंगे?",
+      "en": "Will you go by the meter?",
+      "tr": "Meter se chalenge?"
+    }
+  ],
+  "rickshaw": [
+    {
+      "hi": "स्टेशन तक चलेंगे?",
+      "en": "Will you go to the station?",
+      "tr": "Station tak chalenge?"
+    },
+    {
+      "hi": "पचास रुपए ठीक है?",
+      "en": "Is fifty rupees okay?",
+      "tr": "Pachaas rupaye theek hai?"
+    },
+    {
+      "hi": "थोड़ा कम कर दीजिए।",
+      "en": "Please reduce a little.",
+      "tr": "Thoda kam kar dijiye."
+    },
+    {
+      "hi": "कितनी देर लगेगी?",
+      "en": "How long will it take?",
+      "tr": "Kitni der lagegi?"
+    }
+  ],
+  "neighbor": [
+    {
+      "hi": "नमस्ते, मैं Emily हूँ।",
+      "en": "Hello, I'm Emily.",
+      "tr": "Namaste, main Emily hoon."
+    },
+    {
+      "hi": "यह मेरी बेटी Sophia है।",
+      "en": "This is my daughter, Sophia.",
+      "tr": "Yeh meri beti Sophia hai."
+    },
+    {
+      "hi": "आपसे मिलकर खुशी हुई।",
+      "en": "Nice to meet you.",
+      "tr": "Aapse milkar khushi hui."
+    },
+    {
+      "hi": "आप यहाँ कब से रहते हैं?",
+      "en": "Since when have you been living here?",
+      "tr": "Aap yahan kab se rehte hain?"
+    },
+    {
+      "hi": "चाय पीने आइएगा।",
+      "en": "Please come for tea.",
+      "tr": "Chai peene aaiyega."
+    }
+  ],
+  "introductions": [
+    {
+      "hi": "हम Minneapolis, America से हैं।",
+      "en": "We're from Minneapolis, America.",
+      "tr": "Hum Minneapolis, America se hain."
+    },
+    {
+      "hi": "हम यहाँ छह महीने रहते हैं।",
+      "en": "We live here for six months.",
+      "tr": "Hum yahan chhe mahine rehte hain."
+    },
+    {
+      "hi": "कल मिलते हैं?",
+      "en": "Shall we meet tomorrow?",
+      "tr": "Kal milte hain?"
+    },
+    {
+      "hi": "यह मेरे पति Jonathan हैं।",
+      "en": "This is my husband, Jonathan.",
+      "tr": "Yeh mere pati Jonathan hain."
+    },
+    {
+      "hi": "आपका नाम क्या है?",
+      "en": "What is your name?",
+      "tr": "Aapka naam kya hai?"
+    }
+  ],
+  "church": [
+    {
+      "hi": "यीशु में शांति मिले।",
+      "en": "May you find peace in Jesus.",
+      "tr": "Yeshu mein shanti mile."
+    },
+    {
+      "hi": "आप कैसी हैं, आंटी जी?",
+      "en": "How are you, Aunty?",
+      "tr": "Aap kaisi hain, Aunty ji?"
+    },
+    {
+      "hi": "प्रार्थना के लिए धन्यवाद।",
+      "en": "Thank you for the prayer.",
+      "tr": "Prarthana ke liye dhanyavaad."
+    },
+    {
+      "hi": "प्रभु आपको आशीष दे।",
+      "en": "May the Lord bless you.",
+      "tr": "Prabhu aapko aashish de."
+    },
+    {
+      "hi": "आज का संदेश बहुत अच्छा था।",
+      "en": "Today's message was very good.",
+      "tr": "Aaj ka sandesh bahut accha tha."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "namaste-emily-bolt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "http-server public -p 3000 -c-1",
+    "build": "echo 'No build step required - serving static files directly'"
+  },
+  "dependencies": {
+    "openai": "^4.55.3",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
